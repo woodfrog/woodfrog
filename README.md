@@ -2,7 +2,7 @@
 
 [**Floor-sp**: Inverse cad for floorplans by sequential room-wise shortest path](https://github.com/woodfrog/floor-sp)
 
-[Learning the best pooling strategy for visual semantic embedding (**VSE-Infty**)](https://github.com/woodfrog/vse_infty)
+[**VSE-Infty**: Learning the best pooling strategy for visual semantic embedding](https://github.com/woodfrog/vse_infty)
 
 [**Heat**: Holistic edge attention transformer for structured reconstruction](https://github.com/woodfrog/heat)
 
