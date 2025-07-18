@@ -1,5 +1,7 @@
 ### 📄 Code for papers
 
+The code for the papers I’ve co-authored is or will be open-sourced, unless restricted by company privacy policies.
+
 [**Floor-sp**: Inverse cad for floorplans by sequential room-wise shortest path](https://github.com/woodfrog/floor-sp)
 
 [**VSE-Infty**: Learning the best pooling strategy for visual semantic embedding](https://github.com/woodfrog/vse_infty)
