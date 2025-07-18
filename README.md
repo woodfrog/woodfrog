@@ -1,16 +1,17 @@
-## Hi there 👋
+### 📄 Code for papers
 
-<!--
-**woodfrog/woodfrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[**Floor-sp**: Inverse cad for floorplans by sequential room-wise shortest path](https://github.com/woodfrog/floor-sp)
 
-Here are some ideas to get you started:
+[Learning the best pooling strategy for visual semantic embedding (**VSE-Infty**)](https://github.com/woodfrog/vse_infty)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Heat**: Holistic edge attention transformer for structured reconstruction](https://github.com/woodfrog/heat)
+
+[**Polydiffuse**: Polygonal shape reconstruction via guided set diffusion models](https://github.com/woodfrog/poly-diffuse)
+
+[**MVDiffusion**: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://github.com/Tangshitao/MVDiffusion)
+
+[**MapTracker**: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping](https://github.com/woodfrog/maptracker)
+
+[**PuzzleFusion++**: Auto-agglomerative 3D Fracture Assembly by Denoise and Verify](https://github.com/eric-zqwang/puzzlefusion-plusplus)
+
+[**MEGA-Bench**: Scaling Multimodal Evaluation to over 500 Real-World Tasks](https://github.com/TIGER-AI-Lab/MEGA-Bench)
