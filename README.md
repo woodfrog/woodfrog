@@ -2,9 +2,9 @@
 
 The code for the papers I’ve co-authored is or will be open-sourced, unless restricted by company privacy policies.
 
-[**Floor-sp**: Inverse cad for floorplans by sequential room-wise shortest path](https://github.com/woodfrog/floor-sp)
+#### 3D reconstruction/generation
 
-[**VSE-Infty**: Learning the best pooling strategy for visual semantic embedding](https://github.com/woodfrog/vse_infty)
+[**Floor-sp**: Inverse cad for floorplans by sequential room-wise shortest path](https://github.com/woodfrog/floor-sp)
 
 [**Heat**: Holistic edge attention transformer for structured reconstruction](https://github.com/woodfrog/heat)
 
@@ -15,5 +15,9 @@ The code for the papers I’ve co-authored is or will be open-sourced, unless re
 [**MapTracker**: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping](https://github.com/woodfrog/maptracker)
 
 [**PuzzleFusion++**: Auto-agglomerative 3D Fracture Assembly by Denoise and Verify](https://github.com/eric-zqwang/puzzlefusion-plusplus)
+
+#### Multimodal
+
+[**VSE-Infty**: Learning the best pooling strategy for visual semantic embedding](https://github.com/woodfrog/vse_infty)
 
 [**MEGA-Bench**: Scaling Multimodal Evaluation to over 500 Real-World Tasks](https://github.com/TIGER-AI-Lab/MEGA-Bench)
